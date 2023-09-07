@@ -1,4 +1,4 @@
-## 👋 Olá, sou [Roberto Lucas]!
+## 👋 Olá, meu nome é Roberto Lucas!
 
 🎨 Designer Gráfico por formação, 🚀 Estudando Front-End .
 
