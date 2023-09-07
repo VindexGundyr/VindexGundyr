@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 ## 👋 Olá, sou [Roberto Lucas]!
 
 🎨 Designer Gráfico por formação, 🚀 Estudando Front-End .
