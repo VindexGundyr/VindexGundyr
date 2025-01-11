@@ -7,7 +7,7 @@
 
 ## Sobre
 
-Olá! Eu sou Roberto Lucas, um estudante de Análise e Desenvolvimento de Sistemas na PUCPR, com uma base sólida em Design Gráfico pela Unicuritiba e UX/UI Design pela Awari.
+Olá! Eu sou Roberto Lucas, um estudante de Análise e Desenvolvimento de Sistemas na Impacta, com uma base sólida em Design Gráfico pela Unicuritiba e UX/UI Design pela Awari.
 
 Constantemente em busca de conhecimento, mantenho-me atualizado com as últimas tendências e práticas na área de desenvolvimento. Recentemente, tenho direcionado meus esforços para o estudo de lógica de programação, ampliando minha compreensão e habilidades em programação.
 
@@ -22,7 +22,7 @@ Atualmente, estou procurando oportunidades de estágio, ansioso para aplicar min
 - **De**: Curitiba - PR, Brasil
 - **Stack**: PHP
 - **Aprendendo**: PHP
-- **Universidade**: Unicuritiba - PUCPR
+- **Universidade**: Unicuritiba - Impacta
 
 ## Algumas coisas sobre mim.
 
