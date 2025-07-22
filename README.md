@@ -18,7 +18,7 @@ Atualmente, estou procurando oportunidades de estágio, ansioso para aplicar min
 ## Informações
 
 - **Nome**: Roberto Lucas Alves Rosa
-- **Idade**: 25
+- **Idade**: 26
 - **De**: Curitiba - PR, Brasil
 - **Stack**: PHP
 - **Aprendendo**: PHP
