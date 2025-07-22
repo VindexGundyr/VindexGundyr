@@ -21,7 +21,7 @@ Atualmente, estou procurando oportunidades de estágio, ansioso para aplicar min
 - **Idade**: 26
 - **De**: Curitiba - PR, Brasil
 - **Stack**: PHP
-- **Aprendendo**: PHP
+- **Aprendendo**: PHP - Java 
 - **Universidade**: Unicuritiba - Impacta
 
 ## Algumas coisas sobre mim.
